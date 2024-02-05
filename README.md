@@ -4,6 +4,7 @@
 
 2nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
 
+Tools and Technologies: Python, C, C++, Java, JS, Node.js, React.js, Next.js, ExpressJS, HTML5, CSS, MongoDB, MySQL, PostgreSQL, Elastic, Ansible, Linux, Docker, Git
 
 
 <!--
