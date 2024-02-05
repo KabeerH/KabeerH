@@ -1,4 +1,4 @@
-<h1 style="font-size:2em;">Hi there, my name is Kabeer Harjani 👋</h1>
+<h1 style="font-size:2em;">Hi there! My name is Kabeer Harjani 👋</h1>
 
 ---
 
