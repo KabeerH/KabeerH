@@ -13,6 +13,8 @@
 - 📫 How to reach me: kabeerharjani@gmail.com
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript what????
 
+[![trophy](https://img.shields.io/badge/achievement-unlocked-blue)](https://shields.io)
+
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
