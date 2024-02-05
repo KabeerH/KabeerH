@@ -2,6 +2,8 @@
 
 2nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
 
+---
+
 
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
