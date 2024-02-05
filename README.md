@@ -18,6 +18,17 @@
 [![React](https://img.shields.io/badge/React-16.8-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-14.17-green)](https://nodejs.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.60-purple)](https://code.visualstudio.com/)
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![MongoDB](https://img.shields.io/badge/MongoDB-latest-green)](https://www.mongodb.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.6-purple)](https://getbootstrap.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)](https://www.mysql.com/)
+[![JSON](https://img.shields.io/badge/JSON-ECMA%205-orange)](https://www.json.org/)
+[![Jira](https://img.shields.io/badge/Jira-Software-blue)](https://www.atlassian.com/software/jira)
+[![Git](https://img.shields.io/badge/Git-latest-orange)](https://git-scm.com/)
+[![C](https://img.shields.io/badge/C-99-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-17-green)](https://en.cppreference.com/w/cpp/17)
+
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
