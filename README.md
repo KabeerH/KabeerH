@@ -7,11 +7,11 @@
 
 ## 🧐 About
 
-- 🏄‍ Community enthusiast who loves to be involved in communities and help students grow
+- 🏄‍ Loves to learn something new everyday
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Python / Rust
-- 📫 How to reach me: Your Email
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Python / C++
+- 📫 How to reach me: kabeerharjani@gmail.com
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript what????
 
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
