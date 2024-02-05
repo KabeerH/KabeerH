@@ -29,6 +29,11 @@
 [![C](https://img.shields.io/badge/C-99-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-17-green)](https://en.cppreference.com/w/cpp/17)
 
+## 📊 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?KabeerH&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KabeerH&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
