@@ -4,10 +4,14 @@
 
 2nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
 
-[![GitHub followers](https://img.shields.io/github/followers/KabeerH?label=Follow&style=social)](https://github.com/KabeerH)
-[LinkedIn]([https://linkedin.com/in/yourlinkedinusername](https://www.linkedin.com/in/kabeer-harjani-b3b124248/))
 
+## 🧐 About
 
+- 🏄‍ Community enthusiast who loves to be involved in communities and help students grow
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Python / Rust
+- 📫 How to reach me: Your Email
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript
 
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
