@@ -4,8 +4,7 @@
 
 2nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
 
-!Linkedin: yourusername
-!GitHub followers
+[![GitHub followers](https://img.shields.io/github/followers/KabeerH?label=Follow&style=social)](https://github.com/KabeerH)
 
 
 <!--
