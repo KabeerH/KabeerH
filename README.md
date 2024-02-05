@@ -13,8 +13,11 @@
 - 📫 How to reach me: kabeerharjani@gmail.com
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript what????
 
-[![trophy](https://img.shields.io/badge/achievement-unlocked-blue)](https://shields.io)
-
+## 👨‍💻 Languages and Tools
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-16.8-blue)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-14.17-green)](https://nodejs.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.60-purple)](https://code.visualstudio.com/)
 <!--
 **KabeerH/KabeerH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
