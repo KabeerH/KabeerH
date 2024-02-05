@@ -32,6 +32,10 @@
 ## 📊 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeerH&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/KabeerH)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeerH&layout=compact&theme=radical)](https://github.com/KabeerH)
+
+## 🤝🏻 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/kabeer-harjani/)
 
 
 
