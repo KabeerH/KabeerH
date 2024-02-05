@@ -30,7 +30,8 @@
 [![C++](https://img.shields.io/badge/C++-17-green)](https://en.cppreference.com/w/cpp/17)
 
 ## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeerH&show_icons=true&count_private=true&hide=contribs&theme=radical)]
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeerH&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/KabeerH)
+
 
 
 
