@@ -10,7 +10,6 @@
 - 🏄‍ Loves to learn something new everyday
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Python / C++
-- 📫 How to reach me: kabeerharjani@gmail.com
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript what????
 
 ## 👨‍💻 Languages and Tools
