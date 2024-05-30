@@ -2,7 +2,7 @@
 
 ---
 
-2nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
+3nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
 
 
 ## 🧐 About
@@ -31,6 +31,7 @@
 
 ## 📊 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabeerH&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/KabeerH)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KabeerH)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeerH&layout=compact&theme=radical)](https://github.com/KabeerH)
 
