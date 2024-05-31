@@ -2,7 +2,7 @@
 
 ---
 
-3nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development)
+3nd Year Student @ Seneca Polytechnic College | Pursuing A 4 year degree in Bachelor of Technology (Software Development - BSD)
 
 
 ## 🧐 About
