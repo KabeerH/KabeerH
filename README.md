@@ -36,7 +36,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KabeerH&layout=compact&theme=radical)](https://github.com/KabeerH)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KabeerH&theme=dark)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=KabeerH&theme=radical" alt="GitHub_count">
 
 </div>
 
