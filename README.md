@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Python / C++
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript what????
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 TechStack
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-16.8-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-14.17-green)](https://nodejs.org/)
