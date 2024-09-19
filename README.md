@@ -7,7 +7,7 @@
 ## 🧐 About
 
 - 🏄‍ Loves to learn something new everyday
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently Data structures and algorithms 
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Python / C++
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript what????
 
