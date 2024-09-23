@@ -2,7 +2,7 @@
 
 ---
 
-3nd Year Student @Seneca Polytechnic pursuing a 4 year undergraduate degree in Bachelor of Technology (Software Development)
+3rd Year Student @Seneca Polytechnic pursuing a 4 year degree in Bachelor of Technology (Software Development)
 
 ## 🧐 About
 
